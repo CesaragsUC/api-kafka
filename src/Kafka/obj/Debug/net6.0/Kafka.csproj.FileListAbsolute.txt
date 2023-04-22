@@ -1,0 +1,15 @@
+F:\Projetos ASP.NET\Repositorio Tutoriais\simple-api-kafka\src\Kafka\bin\Debug\net6.0\Kafka.deps.json
+F:\Projetos ASP.NET\Repositorio Tutoriais\simple-api-kafka\src\Kafka\bin\Debug\net6.0\Kafka.dll
+F:\Projetos ASP.NET\Repositorio Tutoriais\simple-api-kafka\src\Kafka\bin\Debug\net6.0\Kafka.pdb
+F:\Projetos ASP.NET\Repositorio Tutoriais\simple-api-kafka\src\Kafka\obj\Debug\net6.0\Kafka.csproj.AssemblyReference.cache
+F:\Projetos ASP.NET\Repositorio Tutoriais\simple-api-kafka\src\Kafka\obj\Debug\net6.0\Kafka.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos ASP.NET\Repositorio Tutoriais\simple-api-kafka\src\Kafka\obj\Debug\net6.0\Kafka.AssemblyInfoInputs.cache
+F:\Projetos ASP.NET\Repositorio Tutoriais\simple-api-kafka\src\Kafka\obj\Debug\net6.0\Kafka.AssemblyInfo.cs
+F:\Projetos ASP.NET\Repositorio Tutoriais\simple-api-kafka\src\Kafka\obj\Debug\net6.0\Kafka.csproj.CoreCompileInputs.cache
+F:\Projetos ASP.NET\Repositorio Tutoriais\simple-api-kafka\src\Kafka\obj\Debug\net6.0\Kafka.dll
+F:\Projetos ASP.NET\Repositorio Tutoriais\simple-api-kafka\src\Kafka\obj\Debug\net6.0\refint\Kafka.dll
+F:\Projetos ASP.NET\Repositorio Tutoriais\simple-api-kafka\src\Kafka\obj\Debug\net6.0\Kafka.pdb
+F:\Projetos ASP.NET\Repositorio Tutoriais\simple-api-kafka\src\Kafka\obj\Debug\net6.0\ref\Kafka.dll
+F:\Projetos ASP.NET\Repositorio Tutoriais\simple-api-kafka\src\Kafka\bin\Debug\net6.0\Simple.API.Core.dll
+F:\Projetos ASP.NET\Repositorio Tutoriais\simple-api-kafka\src\Kafka\bin\Debug\net6.0\Simple.API.Core.pdb
+F:\Projetos ASP.NET\Repositorio Tutoriais\simple-api-kafka\src\Kafka\obj\Debug\net6.0\Kafka.csproj.CopyComplete

@@ -1,0 +1,12 @@
+F:\Projetos ASP.NET\Repositorio Tutoriais\simple-api-kafka\src\Simple.API.Core\bin\Debug\net6.0\Simple.API.Core.deps.json
+F:\Projetos ASP.NET\Repositorio Tutoriais\simple-api-kafka\src\Simple.API.Core\bin\Debug\net6.0\Simple.API.Core.dll
+F:\Projetos ASP.NET\Repositorio Tutoriais\simple-api-kafka\src\Simple.API.Core\bin\Debug\net6.0\Simple.API.Core.pdb
+F:\Projetos ASP.NET\Repositorio Tutoriais\simple-api-kafka\src\Simple.API.Core\obj\Debug\net6.0\Simple.API.Core.csproj.AssemblyReference.cache
+F:\Projetos ASP.NET\Repositorio Tutoriais\simple-api-kafka\src\Simple.API.Core\obj\Debug\net6.0\Simple.API.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos ASP.NET\Repositorio Tutoriais\simple-api-kafka\src\Simple.API.Core\obj\Debug\net6.0\Simple.API.Core.AssemblyInfoInputs.cache
+F:\Projetos ASP.NET\Repositorio Tutoriais\simple-api-kafka\src\Simple.API.Core\obj\Debug\net6.0\Simple.API.Core.AssemblyInfo.cs
+F:\Projetos ASP.NET\Repositorio Tutoriais\simple-api-kafka\src\Simple.API.Core\obj\Debug\net6.0\Simple.API.Core.csproj.CoreCompileInputs.cache
+F:\Projetos ASP.NET\Repositorio Tutoriais\simple-api-kafka\src\Simple.API.Core\obj\Debug\net6.0\Simple.API.Core.dll
+F:\Projetos ASP.NET\Repositorio Tutoriais\simple-api-kafka\src\Simple.API.Core\obj\Debug\net6.0\refint\Simple.API.Core.dll
+F:\Projetos ASP.NET\Repositorio Tutoriais\simple-api-kafka\src\Simple.API.Core\obj\Debug\net6.0\Simple.API.Core.pdb
+F:\Projetos ASP.NET\Repositorio Tutoriais\simple-api-kafka\src\Simple.API.Core\obj\Debug\net6.0\ref\Simple.API.Core.dll

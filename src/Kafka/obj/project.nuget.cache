@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "lwk3UTDql8QQYvmX+J3OW/fnhB1wMcWa7ChB+wr2jeEfgdJIiMp4mhAWtlVfHRa3Yy84HPYhBc+0U1y3eFslYw==",
+  "success": true,
+  "projectFilePath": "F:\\Projetos ASP.NET\\api-kafka\\src\\Kafka\\Kafka.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cesar\\.nuget\\packages\\confluent.kafka\\2.1.0\\confluent.kafka.2.1.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\librdkafka.redist\\2.1.0\\librdkafka.redist.2.1.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\mediatr\\8.0.1\\mediatr.8.0.1.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

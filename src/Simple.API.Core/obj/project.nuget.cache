@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "19yXIGNAJ6BTGzEi/D6hVddDD4VZXujXcEBbi3mKPS+QOwUH/tnL7ZPnCjx1AzCVljh/ranA04VzE3M/Ellx5g==",
+  "success": true,
+  "projectFilePath": "F:\\Projetos ASP.NET\\api-kafka\\src\\Simple.API.Core\\Simple.API.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cesar\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\mediatr\\8.0.1\\mediatr.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

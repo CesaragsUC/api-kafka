@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ceYHVZDLg7rL2jhMIji1Xdt+9sawtGs+gHRoh0Sq661xC2ip+8tTVqh/rMY4etWNLFWDbk9rU1gTgD0r+M/NvA==",
+  "success": true,
+  "projectFilePath": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\simple-api-kafka\\src\\MessageBus\\Simple.API.MessageBus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cesar\\.nuget\\packages\\confluent.kafka\\2.1.0\\confluent.kafka.2.1.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\librdkafka.redist\\2.1.0\\librdkafka.redist.2.1.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\mediatr\\8.0.1\\mediatr.8.0.1.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

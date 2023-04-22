@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\simple-api-kafka\\src\\MessageBus\\Simple.API.MessageBus.csproj": {}
+  },
+  "projects": {
+    "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\simple-api-kafka\\src\\MessageBus\\Simple.API.MessageBus.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\simple-api-kafka\\src\\MessageBus\\Simple.API.MessageBus.csproj",
+        "projectName": "Simple.API.MessageBus",
+        "projectPath": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\simple-api-kafka\\src\\MessageBus\\Simple.API.MessageBus.csproj",
+        "packagesPath": "C:\\Users\\cesar\\.nuget\\packages\\",
+        "outputPath": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\simple-api-kafka\\src\\MessageBus\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cesar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\simple-api-kafka\\src\\Simple.API.Core\\Simple.API.Core.csproj": {
+                "projectPath": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\simple-api-kafka\\src\\Simple.API.Core\\Simple.API.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Confluent.Kafka": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\simple-api-kafka\\src\\Simple.API.Core\\Simple.API.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\simple-api-kafka\\src\\Simple.API.Core\\Simple.API.Core.csproj",
+        "projectName": "Simple.API.Core",
+        "projectPath": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\simple-api-kafka\\src\\Simple.API.Core\\Simple.API.Core.csproj",
+        "packagesPath": "C:\\Users\\cesar\\.nuget\\packages\\",
+        "outputPath": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\simple-api-kafka\\src\\Simple.API.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cesar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.4.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

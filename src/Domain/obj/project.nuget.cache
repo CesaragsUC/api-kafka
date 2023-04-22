@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G1pwMXqi+BFSvJamb+OR0f+j6uD0RH/0ccfzP1NkcRlF+t7vvkFM7E1/Y6MKB7kzbLSh7CypfO9mGXRVSJErIA==",
+  "success": true,
+  "projectFilePath": "F:\\Projetos ASP.NET\\api-kafka\\src\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cesar\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

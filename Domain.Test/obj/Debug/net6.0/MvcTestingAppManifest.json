@@ -1,0 +1,8 @@
+{
+  "Consumer.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\simple-api-kafka\\src\\Consumer.Core",
+  "Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\simple-api-kafka\\src\\Domain",
+  "Infra, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\simple-api-kafka\\src\\Infra",
+  "Kafka, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\simple-api-kafka\\src\\Kafka",
+  "Simple.API.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\simple-api-kafka\\src\\Simple.API.Core",
+  "simple.api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\simple-api-kafka\\src\\api"
+}
